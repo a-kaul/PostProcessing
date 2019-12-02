@@ -1,5 +1,5 @@
 {
-    "name": "com.unity.postprocessing.arfix",
+    "name": "com.unity.postprocessing",
     "version": "2.2.2",
     "displayName": "Post Processing ARFix",
     "unity": "2018.1",
