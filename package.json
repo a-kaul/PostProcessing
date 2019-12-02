@@ -1,7 +1,7 @@
 {
-    "name": "com.unity.postprocessing",
+    "name": "com.unity.postprocessing.arfix",
     "version": "2.2.2",
-    "displayName": "Post Processing",
+    "displayName": "Post Processing ARFix",
     "unity": "2018.1",
     "description": "The post-processing stack (v2) comes with a collection of effects and image filters you can apply to your cameras to improve the visuals of your games.",
     "dependencies": {
